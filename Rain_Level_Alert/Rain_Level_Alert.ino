@@ -9,8 +9,8 @@
 #define RAIN_SENSOR_PIN A0
 #define RAIN_SENSOR_THRESHOLD 500 // adjust this value based on your sensor
 
-char ssid[] = "BARANI";
-char pass[] = "NOTHING123";
+char ssid[] = "Enter your hospot name";
+char pass[] = "Enter your hospot password";
 
 void setup()
 {
